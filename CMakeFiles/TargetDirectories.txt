@@ -1,0 +1,3 @@
+/home/sveatlo/Documents/school/uni/assignments/2/summer/IZG/proj/CMakeFiles/rebuild_cache.dir
+/home/sveatlo/Documents/school/uni/assignments/2/summer/IZG/proj/CMakeFiles/edit_cache.dir
+/home/sveatlo/Documents/school/uni/assignments/2/summer/IZG/proj/CMakeFiles/izgProjekt2016.dir
